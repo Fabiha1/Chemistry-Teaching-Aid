@@ -1,0 +1,22 @@
+Ion;A positively or negatively charged atom
+Element;A substance that consists of only one type of atom and it cannot be broken down into anything simpler by chemical means
+Atom;The smallest part of an element that can exist
+Compound;A substance that contains two or more elements that are chemically combined
+Mixture;Consists of two or more different substances, not chemically joined together
+Covalent bonding;Forms when two non-metal atoms share a pair of electrons
+Ionic bonding;When metals react with non-metals, electrons are transferred from the metal atoms to the non-metal atoms forming ions
+Metallic bonding;The force of attraction between these free-moving electrons and positive metal ions
+Delocalised electrons;Free-moving electrons
+Group number;Number of valence electrons of the elements in a certain group
+Period number;The number of electron occupied shells in the element
+Nucleus;The very small and dense central part of an atom which contains protons and neutrons
+Proton;A tiny positive particle found inside the nucleus of an atom.
+Electron;A tiny particle with a negative charge. Electrons orbit the nucleus in atoms or ions
+Neutron;A dense particle found in the nucleus of an atom. It is electrically neutral. They have no overall charge
+Atomic number;The number of protons (which equals the number of electrons) in an atom
+Mass number;The total number of protons and neutrons in an atom
+Group;All the elements in each column (labelled 1 to 8) down the Periodic table
+Inert;Unreactive
+Isotope; Atom that has the same number of protons but a different number of neutrons
+Molecular formula;The chemical formula that shows the actual numbers of atoms in a particular molecule
+Periodic table;An arrangement of elements in the order of their atomic numbers forming groups and periods.
